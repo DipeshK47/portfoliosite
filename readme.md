@@ -7,11 +7,6 @@ Welcome to my personal portfolio! This project showcases my skills and experienc
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Credits](#credits)
-- [Contact](#contact)
 
 ## Demo
 
