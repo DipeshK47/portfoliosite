@@ -1,37 +1,28 @@
-# My Personal Portfolio
+# 3D Developer Portfolio
 
-Welcome to my personal portfolio! This project showcases my skills and experience as a developer, featuring interactive elements built using React and Three.js.
+A minimalistic portfolio website designed to showcase skills through an innovative, immersive experience. Built using React.js, Three.js, and Tailwind CSS, this responsive portfolio offers interactive 3D elements, dynamic animations, and an engaging presentation of projects, career highlights, and contact details.
 
-## Table of Contents
+## Tech Stack
 
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-
-## Demo
-
-Check out the live demo of my portfolio https://dipeshkumar.vercel.app/
+	•	Node.js: Backend environment.
+	•	React.js: UI development.
+	•	Three.js: 3D graphics.
+	•	React Three Fiber: React renderer for Three.js.
+	•	React Three Drei: Helpers for Three.js.
+	•	Tailwind CSS: Responsive design.
+	•	EmailJS: Send emails from the frontend.
+	•	Vite: Fast build tool.
 
 ## Features
 
-- **Interactive Globe**: Utilizes Three.js to display a rotating 3D globe with labeled locations.
-- **Smooth Animations**: GSAP-powered animations for a fluid user experience.
-- **Responsive Design**: Optimized for all screen sizes.
-- **Project Showcase**: Display of selected projects with details and links to the GitHub repositories.
-- **Dynamic Skills Section**: Highlights skills in AI, ML, Full-Stack Development, and more.
-- **Contact Section**: Directly copy my email or navigate to the contact form.
+	•	Immersive 3D Hero Section: Dynamic hacker room.
+	•	About Section: Bento grid with tech icons, 3D globe.
+	•	Project Showcase: Display projects inside a 3D model.
+	•	Experience Timeline: Milestones with 3D animations.
+	•	Testimonials: Client feedback.
+	•	Contact Form: Email form via EmailJS.
+	•	Responsive: Optimized for all devices.
 
-## Technologies Used
+## Assets
 
-- **React**: JavaScript library for building the user interface.
-- **Three.js**: 3D library used to create the interactive globe.
-- **GSAP**: Animation library for smooth transitions and interactions.
-- **React-Globe.gl**: A React wrapper around the Three.js globe visualization.
-- **CSS3**: Custom styling for the layout and design.
-
-
-## Credits
-
-	•	Three.js: For 3D rendering and creating the globe.
-	•	GSAP: For smooth animations.
-	•	React: For the front-end framework.
+	•	3D models and animations from sources like ReadyPlayerMe, Mixamo, and Framer Motion.
